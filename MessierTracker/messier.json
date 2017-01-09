@@ -1,0 +1,853 @@
+{
+	"MessierObjects":
+	[
+		{
+			"Messier":"M01",
+			"NGC":"NGC 1952",
+			"Const":"TAURUS",
+			"RA":"0531300",
+			"Dec":"+215900",
+			"Desc":"Supernova remnant   Crab Nebula"
+		},
+		{
+			"Messier":"M02",
+			"NGC":"NGC 7089",
+			"Const":"AQUARIUS",
+			"RA":"2130540",
+			"Dec":"-010300",
+			"Desc":"Globular cluster   diameter 7 seconds"
+		},
+		{
+			"Messier":"M03",
+			"NGC":"NGC 5272",
+			"Const":"CANES VENATICI",
+			"RA":"1339540",
+			"Dec":"+283800",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M04",
+			"NGC":"NGC 6121",
+			"Const":"SCORPIO",
+			"RA":"1620360",
+			"Dec":"-262400",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M05",
+			"NGC":"NGC 5904",
+			"Const":"SERPENS",
+			"RA":"1516000",
+			"Dec":"+021600",
+			"Desc":"Globular cluster   fine globular"
+		},
+		{
+			"Messier":"M06",
+			"NGC":"NGC 6405",
+			"Const":"SCORPIO",
+			"RA":"1736480",
+			"Dec":"-321100",
+			"Desc":"Open cluster   naked-eye Superb cluster"
+		},
+		{
+			"Messier":"M07",
+			"NGC":"NGC 6475",
+			"Const":"SCORPIO",
+			"RA":"1750420",
+			"Dec":"-344800",
+			"Desc":"Open cluster   glorious brilliant naked-eye cluster"
+		},
+		{
+			"Messier":"M08",
+			"NGC":"NGC 6523",
+			"Const":"SAGITTARIUS",
+			"RA":"1801360",
+			"Dec":"-242000",
+			"Desc":"Nebula   Lagoon Nebula"
+		},
+		{
+			"Messier":"M09",
+			"NGC":"NGC 6333",
+			"Const":"OPHIUCHUS",
+			"RA":"1716120",
+			"Dec":"-182800",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M10",
+			"NGC":"NGC 6254",
+			"Const":"OPHIUCHUS",
+			"RA":"1654300",
+			"Dec":"-040200",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M11",
+			"NGC":"NGC 6705",
+			"Const":"SCUTUM",
+			"RA":"1848240",
+			"Dec":"-062000",
+			"Desc":"Open cluster  lovely fan shaped cluster Wild Duck"
+		},
+		{
+			"Messier":"M12",
+			"NGC":"NGC 6218",
+			"Const":"OPHIUCHUS",
+			"RA":"1644360",
+			"Dec":"-015200",
+			"Desc":"Globular cluster   none"
+		},
+		{
+			"Messier":"M13",
+			"NGC":"NGC 6205",
+			"Const":"HERCULES",
+			"RA":"1639540",
+			"Dec":"+363300",
+			"Desc":"Globular cluster  Great globular cluster naked-eye"
+		},
+		{
+			"Messier":"M14",
+			"NGC":"NGC 6402",
+			"Const":"OPHIUCHUS",
+			"RA":"1735000",
+			"Dec":"-031300",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M15",
+			"NGC":"NGC 7078",
+			"Const":"PEGASUS",
+			"RA":"2127360",
+			"Dec":"+115700",
+			"Desc":"Globular cluster   bright and condensed"
+		},
+		{
+			"Messier":"M16",
+			"NGC":"NGC 6611",
+			"Const":"SERPENS",
+			"RA":"1816000",
+			"Dec":"-134800",
+			"Desc":"Nebula + cluster   easy object"
+		},
+		{
+			"Messier":"M17",
+			"NGC":"NGC 6618",
+			"Const":"SAGITTARIUS",
+			"RA":"1817540",
+			"Dec":"-161200",
+			"Desc":"Nebula   Omega  or Horseshoe Nebula"
+		},
+		{
+			"Messier":"M18",
+			"NGC":"NGC 6613",
+			"Const":"SAGITTARIUS",
+			"RA":"1817000",
+			"Dec":"-170900",
+			"Desc":"Open cluster   sparse"
+		},
+		{
+			"Messier":"M19",
+			"NGC":"NGC 6273",
+			"Const":"OPHIUCHUS",
+			"RA":"1659300",
+			"Dec":"-261100",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M20",
+			"NGC":"NGC 6514",
+			"Const":"SAGITTARIUS",
+			"RA":"1758540",
+			"Dec":"-230200",
+			"Desc":"Nebula   Trifid Nebula"
+		},
+		{
+			"Messier":"M21",
+			"NGC":"NGC 6531",
+			"Const":"SAGITTARIUS",
+			"RA":"1801480",
+			"Dec":"-223000",
+			"Desc":"Open cluster   about 50 stars"
+		},
+		{
+			"Messier":"M22",
+			"NGC":"NGC 6656",
+			"Const":"SAGITTARIUS",
+			"RA":"1833180",
+			"Dec":"-235800",
+			"Desc":"Globular cluster   first globular to be discovered"
+		},
+		{
+			"Messier":"M23",
+			"NGC":"NGC 6494",
+			"Const":"SAGITTARIUS",
+			"RA":"1754000",
+			"Dec":"-190100",
+			"Desc":"Open cluster   about 120 stars"
+		},
+		{
+			"Messier":"M24",
+			"NGC":"NGC 6603",
+			"Const":"SAGITTARIUS",
+			"RA":"1815300",
+			"Dec":"-182700",
+			"Desc":"Open cluster   rich Some 50 stars"
+		},
+		{
+			"Messier":"M25",
+			"NGC":"NGC I 47",
+			"Const":"SAGITTARIUS",
+			"RA":"1828480",
+			"Dec":"-191700",
+			"Desc":"Open cluster   contains u sgr"
+		},
+		{
+			"Messier":"M26",
+			"NGC":"NGC 6694",
+			"Const":"SCUTUM",
+			"RA":"1842300",
+			"Dec":"-092700",
+			"Desc":"Open cluster   not comparable with m11"
+		},
+		{
+			"Messier":"M27",
+			"NGC":"NGC 6853",
+			"Const":"VULPECULA",
+			"RA":"1957240",
+			"Dec":"+223500",
+			"Desc":"Planetary   Dumb-Bell Nebula"
+		},
+		{
+			"Messier":"M28",
+			"NGC":"NGC 6626",
+			"Const":"SAGITTARIUS",
+			"RA":"1821300",
+			"Dec":"-245400",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M29",
+			"NGC":"NGC 6913",
+			"Const":"CYGNUS",
+			"RA":"2022120",
+			"Dec":"+382100",
+			"Desc":"Open cluster   sparse   about 20 stars"
+		},
+		{
+			"Messier":"M30",
+			"NGC":"NGC 7099",
+			"Const":"CAPRICORNUS",
+			"RA":"2137300",
+			"Dec":"-232500",
+			"Desc":"Globular cluster"
+		},
+		{
+			"Messier":"M31",
+			"NGC":"NGC 224",
+			"Const":"ANDROMEDA",
+			"RA":"0040000",
+			"Dec":"+410000",
+			"Desc":"Galaxy   Great Andromeda Spiral  naked-eye"
+		},
+		{
+			"Messier":"M32",
+			"NGC":"NGC 221",
+			"Const":"ANDROMEDA",
+			"RA":"0040000",
+			"Dec":"+403600",
+			"Desc":"Galaxy   type E2 companion to M31"
+		},
+		{
+			"Messier":"M33",
+			"NGC":"NGC 598",
+			"Const":"TRIANGULUM",
+			"RA":"0131000",
+			"Dec":"+302400",
+			"Desc":"Galaxy   type Sc Member of the local group"
+		},
+		{
+			"Messier":"M34",
+			"NGC":"NGC 1039",
+			"Const":"PERSEUS",
+			"RA":"0238480",
+			"Dec":"+423400",
+			"Desc":"Open cluster   about 80 stars"
+		},
+		{
+			"Messier":"M35",
+			"NGC":"NGC 2168",
+			"Const":"GEMINI",
+			"RA":"0605480",
+			"Dec":"+242100",
+			"Desc":"Open cluster   naked eye"
+		},
+		{
+			"Messier":"M36",
+			"NGC":"NGC1960",
+			"Const":"AURIGA",
+			"RA":"0532000",
+			"Dec":"+340700",
+			"Desc":"Open cluster   none"
+		},
+		{
+			"Messier":"M37",
+			"NGC":"NGC2099",
+			"Const":"AURIGA",
+			"RA":"0549060",
+			"Dec":"+323200",
+			"Desc":"Open cluster   superior to M36"
+		},
+		{
+			"Messier":"M38",
+			"NGC":"NGC1912",
+			"Const":"AURIGA",
+			"RA":"0525180",
+			"Dec":"+354800",
+			"Desc":"Open cluster   cruciform"
+		},
+		{
+			"Messier":"M39",
+			"NGC":"NGC 7092",
+			"Const":"CYGNUS",
+			"RA":"2130240",
+			"Dec":"+481300",
+			"Desc":"Open cluster   about 25 stars"
+		},
+		{
+			"Messier":"M41",
+			"NGC":"NGC 2287",
+			"Const":"CANIS MAJOR",
+			"RA":"0644540",
+			"Dec":"-204100",
+			"Desc":"Open cluster   naked eye"
+		},
+		{
+			"Messier":"M42",
+			"NGC":"NGC 1976",
+			"Const":"ORION",
+			"RA":"0532540",
+			"Dec":"-052500",
+			"Desc":"Nebula   Great nebula in Orion Naked-eye"
+		},
+		{
+			"Messier":"M43",
+			"NGC":"NGC 19",
+			"Const":"ORION",
+			"RA":"0532540",
+			"Dec":"-052500",
+			"Desc":"Nebula   part of the great Orion nebulae M42"
+		},
+		{
+			"Messier":"M44",
+			"NGC":"NGC 2632",
+			"Const":"CANCER",
+			"RA":"0837240",
+			"Dec":"+200000",
+			"Desc":"Open cluster   Praesepe Naked-eye"
+		},
+		{
+			"Messier":"M45",
+			"NGC":"NGCMEL",
+			"Const":"TAURUS",
+			"RA":"0344060",
+			"Dec":"+235800",
+			"Desc":"Open cluster   The Pleiades – Seven Sisters"
+		},
+		{
+			"Messier":"M46",
+			"NGC":"NGC 2437",
+			"Const":"PUPPIS",
+			"RA":"0739300",
+			"Dec":"-144200",
+			"Desc":"Open cluster   within is faint planetary NGC 2438"
+		},
+		{
+			"Messier":"M47",
+			"NGC":"NGC 2422",
+			"Const":"PUPPIS",
+			"RA":"0734180",
+			"Dec":"-142200",
+			"Desc":"Open cluster   naked-eye"
+		},
+		{
+			"Messier":"M48",
+			"NGC":"NGC 2548",
+			"Const":"HYDRA",
+			"RA":"0811120",
+			"Dec":"-053800",
+			"Desc":"Open cluster   -"
+		},
+		{
+			"Messier":"M49",
+			"NGC":"NGC 4472",
+			"Const":"VIRGO",
+			"RA":"1227180",
+			"Dec":"+081600",
+			"Desc":"Galaxy   type E4"
+		},
+		{
+			"Messier":"M50",
+			"NGC":"NGC 2323",
+			"Const":"MONOCEROS",
+			"RA":"0700360",
+			"Dec":"-081600",
+			"Desc":"Open cluster   none"
+		},
+		{
+			"Messier":"M51",
+			"NGC":"NGC 5194",
+			"Const":"CANES VENATICI",
+			"RA":"1327480",
+			"Dec":"+472700",
+			"Desc":"Spiral galaxy   whirlpool galaxy"
+		},
+		{
+			"Messier":"M52",
+			"NGC":"NGC 7654",
+			"Const":"CASSIOPEIA",
+			"RA":"2322000",
+			"Dec":"+611900",
+			"Desc":"Open cluster   not distinctive"
+		},
+		{
+			"Messier":"M53",
+			"NGC":"NGC 5024",
+			"Const":"COMA BERENICES",
+			"RA":"1310300",
+			"Dec":"+182600",
+			"Desc":"Globular cluster  "
+		},
+		{
+			"Messier":"M54",
+			"NGC":"NGC 6715",
+			"Const":"SAGITTARIUS",
+			"RA":"1852000",
+			"Dec":"-303200",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M55",
+			"NGC":"NGC 6809",
+			"Const":"SAGITTARIUS",
+			"RA":"1936540",
+			"Dec":"-310300",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M56",
+			"NGC":"NGC 6779",
+			"Const":"LYRA",
+			"RA":"1914360",
+			"Dec":"+300500",
+			"Desc":"Globular cluster   rich area"
+		},
+		{
+			"Messier":"M57",
+			"NGC":"NGC 6720",
+			"Const":"LYRA",
+			"RA":"1851420",
+			"Dec":"+325800",
+			"Desc":"Planetary   ring nebula Central star mag 14"
+		},
+		{
+			"Messier":"M58",
+			"NGC":"NGC 4579",
+			"Const":"VIRGO",
+			"RA":"1235060",
+			"Dec":"+120500",
+			"Desc":"Galaxy   type Sb"
+		},
+		{
+			"Messier":"M59",
+			"NGC":"NGC 4621",
+			"Const":"VIRGO",
+			"RA":"1239300",
+			"Dec":"+115500",
+			"Desc":"Galaxy   type E3"
+		},
+		{
+			"Messier":"M60",
+			"NGC":"NGC 4649",
+			"Const":"VIRGO",
+			"RA":"1241060",
+			"Dec":"+114900",
+			"Desc":"Galaxy   type E1"
+		},
+		{
+			"Messier":"M61",
+			"NGC":"NGC 4303",
+			"Const":"VIRGO",
+			"RA":"1219240",
+			"Dec":"+044500",
+			"Desc":"Galaxy   type Sc"
+		},
+		{
+			"Messier":"M62",
+			"NGC":"NGC 6266",
+			"Const":"OPHIUCHUS",
+			"RA":"1658060",
+			"Dec":"-300300",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M63",
+			"NGC":"NGC 5055",
+			"Const":"CANES VENATICI",
+			"RA":"1313300",
+			"Dec":"+421700",
+			"Desc":"Spiral galaxy   type Sb"
+		},
+		{
+			"Messier":"M64",
+			"NGC":"NGC 4826",
+			"Const":"COMA BERENICES",
+			"RA":"1254180",
+			"Dec":"+215700",
+			"Desc":"Galaxy   type Sb black-eye galaxy"
+		},
+		{
+			"Messier":"M65",
+			"NGC":"NGC 3623",
+			"Const":"LEO",
+			"RA":"1116180",
+			"Dec":"+132200",
+			"Desc":"Galaxy   type Sa"
+		},
+		{
+			"Messier":"M66",
+			"NGC":"NGC 3627",
+			"Const":"LEO",
+			"RA":"1117360",
+			"Dec":"+131600",
+			"Desc":"Galaxy   type Sb"
+		},
+		{
+			"Messier":"M67",
+			"NGC":"NGC 2682",
+			"Const":"CANCER",
+			"RA":"0847480",
+			"Dec":"+120000",
+			"Desc":"Open cluster   famous old cluster"
+		},
+		{
+			"Messier":"M68",
+			"NGC":"NGC 4590",
+			"Const":"HYDRA",
+			"RA":"1236480",
+			"Dec":"-262900",
+			"Desc":"Globular cluster   none"
+		},
+		{
+			"Messier":"M69",
+			"NGC":"NGC 6637",
+			"Const":"SAGITTARIUS",
+			"RA":"1828060",
+			"Dec":"-323300",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M70",
+			"NGC":"NGC 6681",
+			"Const":"SAGITTARIUS",
+			"RA":"1840000",
+			"Dec":"-322100",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M71",
+			"NGC":"NGC 6838",
+			"Const":"SAGITTA",
+			"RA":"1951300",
+			"Dec":"+183900",
+			"Desc":"Open cluster   very distant"
+		},
+		{
+			"Messier":"M72",
+			"NGC":"NGC 6981",
+			"Const":"AQUARIUS",
+			"RA":"2050420",
+			"Dec":"-124400",
+			"Desc":"Cluster   globular cluster"
+		},
+		{
+			"Messier":"M74",
+			"NGC":"NGC 628",
+			"Const":"PISCES",
+			"RA":"0134000",
+			"Dec":"+153200",
+			"Desc":"Galaxy   type Sc"
+		},
+		{
+			"Messier":"M75",
+			"NGC":"NGC 6864",
+			"Const":"SAGITTARIUS",
+			"RA":"2003120",
+			"Dec":"-220400",
+			"Desc":"Globular cluster   none"
+		},
+		{
+			"Messier":"M76",
+			"NGC":"NGC 650-",
+			"Const":"PERSEUS",
+			"RA":"0138480",
+			"Dec":"+511900",
+			"Desc":"Planetary   faintest messier object"
+		},
+		{
+			"Messier":"M77",
+			"NGC":"NGC 1068",
+			"Const":"CETUS",
+			"RA":"0240060",
+			"Dec":"-001400",
+			"Desc":"Galaxy   Seyfert galaxy (radio source)"
+		},
+		{
+			"Messier":"M78",
+			"NGC":"NGC 2068",
+			"Const":"ORION",
+			"RA":"0544120",
+			"Dec":"+000200",
+			"Desc":"Nebula   reflection nebula"
+		},
+		{
+			"Messier":"M79",
+			"NGC":"NGC 1904",
+			"Const":"LEPUS",
+			"RA":"0522120",
+			"Dec":"-243400",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M80",
+			"NGC":"NGC 6093",
+			"Const":"SCORPIO",
+			"RA":"1614060",
+			"Dec":"-225200",
+			"Desc":"Globular cluster "
+		},
+		{
+			"Messier":"M81",
+			"NGC":"NGC 3031",
+			"Const":"URSA MAJOR",
+			"RA":"0951300",
+			"Dec":"+691800",
+			"Desc":"Galaxy   type Sb"
+		},
+		{
+			"Messier":"M82",
+			"NGC":"NGC 3034",
+			"Const":"URSA MAJOR",
+			"RA":"0951540",
+			"Dec":"+695600",
+			"Desc":"Galaxy   irregular Radio source"
+		},
+		{
+			"Messier":"M83",
+			"NGC":"NGC 5236",
+			"Const":"HYDRA",
+			"RA":"1334180",
+			"Dec":"-293700",
+			"Desc":"Galaxy   type Sc"
+		},
+		{
+			"Messier":"M84",
+			"NGC":"NGC 4374",
+			"Const":"VIRGO",
+			"RA":"1222360",
+			"Dec":"+131000",
+			"Desc":"Galaxy   type E1"
+		},
+		{
+			"Messier":"M85",
+			"NGC":"NGC 4382",
+			"Const":"COMA BERENICES",
+			"RA":"1222480",
+			"Dec":"+182800",
+			"Desc":"Galaxy   type Ep"
+		},
+		{
+			"Messier":"M86",
+			"NGC":"NGC 4406",
+			"Const":"VIRGO",
+			"RA":"1223420",
+			"Dec":"+131300",
+			"Desc":"Galaxy   type E3"
+		},
+		{
+			"Messier":"M87",
+			"NGC":"NGC 4486",
+			"Const":"VIRGO",
+			"RA":"1228180",
+			"Dec":"+124000",
+			"Desc":"Galaxy   type Eo Radio source"
+		},
+		{
+			"Messier":"M88",
+			"NGC":"NGC 4501",
+			"Const":"COMA BERENICES",
+			"RA":"1229300",
+			"Dec":"+144200",
+			"Desc":"Galaxy   type Sb"
+		},
+		{
+			"Messier":"M89",
+			"NGC":"NGC 4552",
+			"Const":"VIRGO",
+			"RA":"1233060",
+			"Dec":"+125000",
+			"Desc":"Galaxy   type So"
+		},
+		{
+			"Messier":"M90",
+			"NGC":"NGC 4569",
+			"Const":"VIRGO",
+			"RA":"1243180",
+			"Dec":"+132600",
+			"Desc":"Galaxy   type Sc"
+		},
+		{
+			"Messier":"M91",
+			"NGC":"NGC 4571",
+			"Const":"COMA BERENICES",
+			"RA":"1234180",
+			"Dec":"+142800",
+			"Desc":"Galaxy   identification uncertain"
+		},
+		{
+			"Messier":"M92",
+			"NGC":"NGC 6341",
+			"Const":"HERCULES",
+			"RA":"1715360",
+			"Dec":"+431200",
+			"Desc":"Globular cluster   little inferior to M13"
+		},
+		{
+			"Messier":"M93",
+			"NGC":"NGC 2447",
+			"Const":"PUPPIS",
+			"RA":"0742240",
+			"Dec":"-234500",
+			"Desc":"Open cluster   loose"
+		},
+		{
+			"Messier":"M95",
+			"NGC":"NGC 3351",
+			"Const":"LEO",
+			"RA":"1041180",
+			"Dec":"+115800",
+			"Desc":"Galaxy   type SBb"
+		},
+		{
+			"Messier":"M96",
+			"NGC":"NGC 3368",
+			"Const":"LEO",
+			"RA":"1044060",
+			"Dec":"+120500",
+			"Desc":"Galaxy   type Sa Near M95"
+		},
+		{
+			"Messier":"M97",
+			"NGC":"NGC 3587",
+			"Const":"URSA MAJOR",
+			"RA":"1112000",
+			"Dec":"+551800",
+			"Desc":"Planetary   Owl Nebula Central star ( mag 143 )"
+		},
+		{
+			"Messier":"M98",
+			"NGC":"NGC 4192",
+			"Const":"COMA BERENICES",
+			"RA":"1211180",
+			"Dec":"+151100",
+			"Desc":"Galaxy   type Sb"
+		},
+		{
+			"Messier":"M99",
+			"NGC":"NGC 4254",
+			"Const":"COMA BERENICES",
+			"RA":"1216180",
+			"Dec":"+144200",
+			"Desc":"Galaxy   type Sc"
+		},
+		{
+			"Messier":"M100",
+			"NGC":"NGC 4321",
+			"Const":"COMA BERENICES",
+			"RA":"1222000",
+			"Dec":"+154900",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M101",
+			"NGC":"NGC 5457",
+			"Const":"URSA MAJOR",
+			"RA":"140300",
+			"Dec":"+542100",
+			"Desc":"Spiral galaxy "
+		},
+		{
+			"Messier":"M103",
+			"NGC":"NGC 581",
+			"Const":"CASSIOPEIA",
+			"RA":"0133000",
+			"Dec":"+604200",
+			"Desc":"Star cluster"
+		},
+		{
+			"Messier":"M104",
+			"NGC":"NGC 4594",
+			"Const":"VIRGO",
+			"RA":"1239000",
+			"Dec":"-113700",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M105",
+			"NGC":"NGC 3379",
+			"Const":"LEO",
+			"RA":"1047000",
+			"Dec":"+123500",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M106",
+			"NGC":"NGC 4258",
+			"Const":" ",
+			"RA":"1219000",
+			"Dec":"+471800",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M107",
+			"NGC":"NGC 6171",
+			"Const":"OPHIUCHUS",
+			"RA":"1632000",
+			"Dec":"-130300",
+			"Desc":"Star cluster"
+		},
+		{
+			"Messier":"M108",
+			"NGC":"NGC 3556",
+			"Const":"URSA MAJOR",
+			"RA":"11110000",
+			"Dec":"+554100",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M109",
+			"NGC":"NGC 3992",
+			"Const":"URSA MAJOR",
+			"RA":"1157000",
+			"Dec":"+532200",
+			"Desc":"Galaxy"
+		},
+		{
+			"Messier":"M110",
+			"NGC":"NGC 205",
+			"Const":"ANDROMEDA",
+			"RA":"0040000",
+			"Dec":"+414100",
+			"Desc":"Galaxy"
+		}
+	]
+}
