@@ -1,0 +1,3 @@
+This folder will be used to store all objects that are currently up in the sky.
+Point what ever sceensaver you are using to this directory, then set the main
+python script to run every few minutes, and you will have a working dynamic screensaver.
