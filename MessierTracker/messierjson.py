@@ -1,7 +1,9 @@
 # imports
 from math import *
 import json
+import os
 import sidereal
+import shutil
 from datetime import datetime
 
 # Constants (Currently set to Pullman, WA. Change for outside use)
@@ -10,12 +12,30 @@ LAT = '46.729777dN'
 LON = '117.181738dW'
 lat = sd.parseLat(LAT)
 lon = sd.parseLon(LON)
+
 def main():
 
     objs = PopulateMessList(open("messier.json"))
+    uplist = ["Info.txt"]
     for mess in objs:
         if CheckInSky(mess):
-            print(mess.mess + " " +  mess.desc)
+            uplist.append(mess.mess + ".jpg")
+            
+    # First, go through files in directory
+    # Delete every file that isn't in uplist
+    # Else, remove that filename from uplist
+    for file in os.listdir("CurrentSky"):
+        if not file in uplist:
+            os.remove("CurrentSky/" + file)
+            print(file + " removed")
+        else:
+            uplist.remove(file)            
+
+    # uplist now has every file that needs to be moved
+    for obj in uplist:
+        file = "MessierImages/" + obj
+        shutil.copy(file, "CurrentSky")
+        
         
 def CheckInSky(messobj):
     ra = sd.hoursToRadians(RAToDegrees(messobj.ra))
